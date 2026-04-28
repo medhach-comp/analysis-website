@@ -35,14 +35,14 @@ This graph looks at the relationship between the difficulty levels that students
 
 ---
 
-<img src="static/imgs/graph2.png" alt="Graph 2: Counts of effectiveness scores of ls."  width="500"/>
+<img src="./static/imgs/graph2.png" alt="Graph 2: Counts of effectiveness scores of ls."  width="500"/>
 
 
 This graph looks at the count of people for each score rating of the ls_effectivness. There is, however, a trend showing that a higher ranking of ls effectiveness has a higher number of people voting for it in the survey. The number of people that find it effective (closer to score of 7) is significanrtly higher than the amount of people that dont't (closer to score of 1), meaning that in general, it can be concluded that the ls is considered effective.
 
 ---
 
-<img src="static/imgs/graph3.png" alt="Graph 3: Difficulty score counts between sections 'Alyssa' and 'Izzie'."  width="500"/>
+<img src="./static/imgs/graph3.png" alt="Graph 3: Difficulty score counts between sections 'Alyssa' and 'Izzie'."  width="500"/>
 
 
 This graph looks at the difficulty scores of students with one of the two instructors. At first glance, it can be determined that more people ranking a higher amount of difficulty are correlated with Izzie's classes. However, it is important to note that these are just the raw counts of the ratings. By themselves, they cannot be used to come to a strong conclusion because the counts (number of students in each of their classes) is inherently different. The graph would have more value if there was a measure of percentage of student who ranked it a certain score, allowing for a more standardized and relative to the context type of conclusion.
