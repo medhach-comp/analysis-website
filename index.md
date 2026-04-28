@@ -29,7 +29,7 @@ Below, we will evaluate the results of the subsequent analysis.
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
 ---
 
-<img src="imgs/graph1.png" alt="Graph 1: Difficulty vs effectiveness of ls." width="500"/>
+<img src="./static/imgs/graph1.png" alt="Graph 1: Difficulty vs effectiveness of ls." width="500">
 
 This graph looks at the relationship between the difficulty levels that students rated COMP110 on a scale of 1-7 against the effectiveness score of the ls vidoes. When analyzing this relationship, however, it is difficult to come to a strong conclusion. This is because there is a relatively strong positive correlation with an increasing difficulty rating with an increasing ls-effective score. This suggests that the course is correlated with more difficulty as the lesson videos are increasingly used. However, there is also a larger range of effectiveness scores with a lower difficulty, overall making a strong conclusion difficult based on this graph. 
 
