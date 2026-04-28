@@ -3,7 +3,7 @@
 layout: default
 ---
 
-# COMP110 Project Site!3
+# COMP110 Project Site!!
 
 Welcome to Medha and Tharini's project site for COMP110. We are excited to shared with you the results and analysis of our project, and our recommendations for future improvement. We hope you find our project informative, and look forward to hearing your thoughts and questions! Thank you for visiting our site!
 
